@@ -1,0 +1,7 @@
+"fallout"
+{
+	"base"	"nutscript"
+	"title"	"FALLOUT: ALASKAN FRONTIER"
+	"author"	"HN"
+	"menusystem"	"1"
+}
