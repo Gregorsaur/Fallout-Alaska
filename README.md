@@ -1,6 +1,6 @@
 # Fallout Alaska
  
-request of the Fallout Alaska community founder, I was told I can give away our schema to the general public. This is the base version that currently includes the plugins that are not from my authory, as those are private and sold individually.
+As a request from the Fallout Alaska community founder, I was told I can give away our schema to the general public. This is the base version that currently includes the plugins that are not from my authory, as those are private and sold individually.
 
 Currently, this version has:
 
