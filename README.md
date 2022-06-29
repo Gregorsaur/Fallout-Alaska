@@ -1,5 +1,11 @@
 # Fallout Alaska
  
+REQUIREMENTS:
+
+MYSQL
+Ability to write a few columns on nut_character
+The collection below
+
 As a request from the Fallout Alaska community founder, I was told I can give away our schema to the general public. This is the base version that currently includes the plugins that are not from my authory, as those are private and sold individually.
 
 Currently, this version has:
@@ -54,3 +60,13 @@ The base version works pretty well if you are starting off, but if you are looki
 
 The Collection:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2498646996
+
+
+Tables to add:
+
+_talents as text
+_apperance as text
+status  as text
+_trait as text
+_quests as text
+
