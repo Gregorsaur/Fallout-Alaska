@@ -3,7 +3,7 @@
 REQUIREMENTS:<br/>
 
 MYSQL<br/>
-Ability to write a few columns on nut_character<br/>
+Ability to write a few columns on nut_characters<br/>
 The collection below<br/>
 
 As a request from the Fallout Alaska community founder, I was told I can give away our schema to the general public. This is the base version that currently includes the plugins that are not from my authory, as those are private and sold individually.<br/>
