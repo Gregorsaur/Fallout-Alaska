@@ -27,7 +27,6 @@ The custom version I am selling also includes:<br/>
 
 Different voice tones you can use on voice chat;<br/>
 Airdrops;<br/>
-Casino Kit;<br/>
 A Custom ESC Menu;<br/>
 Farming;<br/>
 Handcuffs and Leashes;<br/>
